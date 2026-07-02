@@ -1,3 +1,9 @@
+---
+layout: default
+title: Account Deletion
+permalink: /account-deletion/
+---
+
 # Account Deletion for XRD360
 
 You can request account deletion at any time.

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Data Deletion
+permalink: /data-deletion/
+---
+
 # Data Deletion Request for XRD360
 
 If you want us to delete personal data associated with your account, submit a data deletion request.
